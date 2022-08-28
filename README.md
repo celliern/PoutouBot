@@ -10,7 +10,7 @@ Affiche le contenu des pages https://estcequecestbientotlapero.fr/ et https://es
 
 Affiche le meme What A Week, avec le jour actuel affiché
 
-## Wololo (!wololo
+## Wololo (!wololo)
 
 Change la couleur du rôle #wololo (qui doit exister sur le serveur). La couleur du rôle change aussi toutes les 30 minutes.
 
