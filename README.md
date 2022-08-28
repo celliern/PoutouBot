@@ -1,6 +1,6 @@
 # PoutouBot
 
-Bot pour un serveur privé, avec 3 fonctionnalités :
+Bot pour un serveur privé, avec 4 fonctionnalités :
 
 ## Bientôt le (!bientot_apero et !bientot_weekend)
 
@@ -13,6 +13,10 @@ Affiche le meme What A Week, avec le jour actuel affiché
 ## Wololo (!wololo)
 
 Change la couleur du rôle #wololo (qui doit exister sur le serveur). La couleur du rôle change aussi toutes les 30 minutes.
+
+## Mange ta main
+
+Répond une variante de type "mange ta main" lorsque "j'ai faim" apparait dans un message.
 
 ## Config
 
