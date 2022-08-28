@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "poutoubot"
+version = "0.1.0"
+description = ""
+authors = ["Nicolas Cellier <contact@nicolas-cellier.net>"]
+include = ["poutoubot/resources/*"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+discord = "^1.7.3"
+click = "^8.0.3"
+python-dotenv = "^0.19.2"
+Pillow = "^8.4.0"
+loguru = "^0.5.3"
+thefuzz = {extras = ["speedup"], version = "^0.19.0"}
+requests = "^2.27.1"
+beautifulsoup4 = "^4.10.0"
+
+[tool.poetry.dev-dependencies]
+ipykernel = "^6.6.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
